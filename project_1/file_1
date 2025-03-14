@@ -1,43 +1,43 @@
 Day 1 Report
 7-Days Cybersecurity Challenge
 
-Day 1: Introduction to Cybersecurity & Linux Basics
-(The CIA Triad and Common Cybersecurity Threats)
+          Introduction to Cybersecurity & Linux Basics.md
+(The CIA Triad and Common Cybersecurity Threats).md
 
-The CIA Triad: A Pillar of Cybersecurity
-The CIA Triad is a fundamental model in cybersecurity that ensures data protection and system integrity. It stands for Confidentiality, Integrity, and Availability, which are the three key principles of cybersecurity.
+The CIA Triad: A Pillar of Cybersecurity.md
+The CIA Triad is a fundamental model in cybersecurity that ensures data protection and system integrity. It stands for Confidentiality, Integrity, and Availability, which are the three key principles of cybersecurity.md
 
-Confidentiality 
-Confidentiality ensures that sensitive information is accessible only to authorized users. 
+Confidentiality.md 
+Confidentiality ensures that sensitive information is accessible only to authorized users.md 
 
-Integrity
-Integrity protects data from being altered or corrupted. 
+Integrity.md
+Integrity protects data from being altered or corrupted.md 
 
-Availability
-Availability ensures that data and systems remain accessible when needed.
+Availability.md
+Availability ensures that data and systems remain accessible when needed.md
 
-Cyber Threats:
-Some common cyber threats include;
-Phishing
- In phishing, attackers trick users into giving away personal information through fake emails or websites. 
-Prevention
-- Verify email senders before clicking on links.
-- Avoid downloading attachments from unknown sources.
-- Use email security filters and anti-phishing tools.
+Cyber Threats:.md
+Some common cyber threats include;.md
+Phishing.md
+ In phishing, attackers trick users into giving away personal information through fake emails or websites.md 
+Prevention.md
+- Verify email senders before clicking on links.md
+- Avoid downloading attachments from unknown sources.md
+- Use email security filters and anti-phishing tools.md
 
-Malware 
-A malware is any malicious software that can damage or steal data. 
-Prevention
-- Keep software and operating systems updated.
-- Install reputable antivirus and anti-malware programs.
-- Avoid downloading software from unverified sources.
+Malware.md 
+A malware is any malicious software that can damage or steal data.md 
+Prevention.md
+- Keep software and operating systems updated.md
+- Install reputable antivirus and anti-malware programs.md
+- Avoid downloading software from unverified sources.md
 
-Ransomware 
-This is a type of malware that locks users out of their files until a ransom is paid. These threats exploit human error and system vulnerabilities, making cybersecurity awareness and strong security measures essential.
-Prevention
-- Back Up Your Files – Save important files on an external hard drive or cloud storage so you don’t lose them if attacked.
-- Avoid Suspicious Links & Emails.
-Use Strong Security Software – Install a good antivirus and keep it updated to detect and block threats.
-- Always update your computer and software to fix security weaknesses hackers might exploit.
+Ransomware.md 
+This is a type of malware that locks users out of their files until a ransom is paid. These threats exploit human error and system vulnerabilities, making cybersecurity awareness and strong security measures essential.md
+Prevention.md
+- Back Up Your Files – Save important files on an external hard drive or cloud storage so you don’t lose them if attacked.md
+- Avoid Suspicious Links & Emails.md
+Use Strong Security Software – Install a good antivirus and keep it updated to detect and block threats.md
+- Always update your computer and software to fix security weaknesses hackers might exploit.md
 - Don’t Download from Unknown Sources.md
 
