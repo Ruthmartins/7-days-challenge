@@ -1,4 +1,4 @@
-Day 4 Report
+Day 4 Report.md
 
  Web Security Basics & SQL Injection.md
 I set Up a Vulnerable Web Application (DVWA), using docker i also performed basic SQL injections, set the security to low and bypassed authentication. then i use SQLMAP for automated attacks.md
