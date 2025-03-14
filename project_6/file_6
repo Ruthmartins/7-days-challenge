@@ -1,1 +1,6 @@
-"berry" 
+Day 6 Report.md
+Exploring Digital Forensics.md
+Recovering Deleted Files & Analyzing Evidence.md
+
+In my day 6 challenge, I worked with tools like Autopsy to examine forensic images, and uncover deleted data. I also used the comman 'exiftool' to extract metadata from an image.md
+this proving that files hold more hidden information than we realize.md
