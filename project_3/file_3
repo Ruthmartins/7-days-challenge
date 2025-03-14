@@ -1,1 +1,8 @@
-"BearBerry11" 
+Day 3 Report
+Network Scanning & Vulnerability Assessment with Nmap.md
+
+Cybersecurity begins with understanding the attack surface of a system.md 
+Today, I focused on network reconnaissance and vulnerability scanning using Nmap, a powerful tool for mapping networks and identifying potential security risks.md
+I started by scanning my local network to discover live hosts, then analyzed open ports and running services on a target machine. Using different scan techniques, I identified services running on common ports like 22 (SSH), 80 (HTTP), and 443 (HTTPS), which are often targeted by attackers.md
+To take it further, I leveraged Nmap’s scripting engine (NSE) to check for known vulnerabilities, demonstrating how attackers gather intelligence before attempting an exploit.md
+Understanding network exposure is critical in cybersecurity every open port is a potential entry point for threats. Learning to detect and mitigate these risks is a key step in becoming a cybersecurity professional.md
