@@ -1,1 +1,6 @@
-"Ruth" 
+Day [2] of My 7-Day Cybersecurity Challenge!.md 
+
+Today’s focus is on Capturing and Analyzing Network Traffic for Suspicious Activity.md
+In cybersecurity, monitoring network traffic is crucial for detecting potential threats. Using tools like Wireshark or httpdump, we can capture packets, analyze data flow, and as well as filter to spot unusual patterns such as unexpected spikes in traffic or communication with suspicious IPs.md
+By understanding what "normal" traffic looks like, we can quickly identify anomalies that may indicate malware, unauthorized access, or data breaches. Prevention starts with visibility.md
+Have you ever analyzed network traffic? What tools do you use? Let’s discuss, learn and grow together.md
