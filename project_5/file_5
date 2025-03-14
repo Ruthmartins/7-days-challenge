@@ -1,1 +1,12 @@
-"red" 
+Day 5 REPORT.md
+Password Cracking & Hash Analysis 🔐
+
+In this lesson, we explored how weak passwords can be cracked and why strong passwords matter.md
+
+- Learned about hashing and generated a Hash of a Password.md
+- Cracked hashes using Hashcat.md
+- Used Hydra for Brute-Forcing.md
+- Saw firsthand how easy it is to break common and short passwords.md
+
+This lesson showed me how attackers exploit weak passwords, reinforced why strong, unique passwords and multi-factor authentication (MFA) are essential for security.md 
+This is a great reminder to us never reuse passwords!.md
